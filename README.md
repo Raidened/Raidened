@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raidened" alt="raidened" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **https://steamcommunity.com/id/kluedomayo/**
 
